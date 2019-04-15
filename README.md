@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Essence of ML
 
 You can use the [editor on GitHub](https://github.com/fillerInk/Essence-of-ML/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
