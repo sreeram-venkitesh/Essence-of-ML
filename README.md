@@ -1,8 +1,8 @@
 ## Welcome to Essence of ML
 
-You can use the [editor on GitHub](https://github.com/fillerInk/Essence-of-ML/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our end goal is to create a complete reference for learning Machine Learning. One thing that we have noticed in our journey with ML is that you can't always learn everything from a single resource. Extensive research needs to be done until you find the explanation that 'clicks' with you. We have searched and found several of such resources and have tried to create a culmination of all the information from these resources to create an ideal hub all of the beginner friendly content on Machine Learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can contribute to this attempt as you wish. After all, no information should be forbidden. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
