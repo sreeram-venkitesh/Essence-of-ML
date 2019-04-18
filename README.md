@@ -27,3 +27,6 @@ Artificial intelligence, as said earlier, is already all around us. From email s
 ## Chapter 1 : Jargon
 
 So we hear a lot of words these days, which are used almost interchangably(wrong!). We talk about artificial intelligence, machine learning, deep learning, neural networks and so on. But do you exactly know what all of these jargon actually mean? The first chapter is dedicated to learn these words, along with some others. After you are finished with this chapter, you will be able to explain clearly what each of these means and also get a big picture of all the different fields of study and how they are connected.
+
+> Artificial Intelliegence
+
