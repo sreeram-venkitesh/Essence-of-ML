@@ -1,12 +1,14 @@
-# Essence of ML and ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ്   
+# എസ്സെൻസ് ഓഫ് മെഷീൻ ലേർണിംഗ്    
 
-Our end goal is to create a complete reference for learning Machine Learning. One thing that we have noticed in our journey with ML is that you can't always learn everything from a single resource. Extensive research needs to be done until you find the explanation that 'clicks' with you. We have searched and found several of such resources and have tried to create a culmination of all the information from these resources to create an ideal hub all of the beginner friendly content on Machine Learning.
+നമ്മൾ ഇപ്പോൾ എന്നും കേക്കാറുള്ള വാക്കുക്കൾ ആണ് ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് ഉം മെഷീൻ ലേർണിംഗ് ഉം ഒക്കെ. പക്ഷെ ശെരിക്കും എന്താണ് ഈ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ്? ഒരു പക്ഷെ നമ്മൾ എല്ലാരും തന്നെ ഈ കോൺസെപ്റ്റിനെ പറ്റി ആദ്യമായി കേൾക്കുന്നത് സിനിമകളിൽ നിന്നുമായിരിക്കും. ടെർമിനേറ്റർ തൊട്ട് അവേഞ്ചേഴ്‌സ് മുതൽ നമ്മുടെ സ്വന്തം ചിട്ടി വരെ ഉണ്ട് AI. മിക്കവാറും എല്ലാ സിനിമകളിലും തന്നെ AI ചിത്രീകരിക്കപെട്ടിരിക്കുന്നത് ലോകം കൈയടക്കാൻ ശ്രമിക്കുന്ന ഒരു വില്ലൻ റോബോട്ട് ആയിട്ടാണ്. അതുകൊണ്ട് തന്നെ നമ്മളുടെ കാഴ്ചപാട് ഭാവിയിൽ എങ്ങോ വരാൻ ഇരിക്കുന്ന എന്തോ ആണ് AI എന്നാണ്. 
+
+AI ഇപ്പോൾ തന്നെ നമ്മുടെ ചുറ്റും ഉണ്ട് എന്നതാണ് യാഥാർഥ്യം. നമ്മൾ ഈ ലോകത്തെ എങ്ങനെ കാണുന്നു എന്നും നമ്മൾ എങ്ങനെ ചിന്തിക്കുന്നു എന്നും ഒക്കെ തീരുമാനിക്കുന്നതിൽ AI വളരെ വലിയൊരു പങ്ക് ഇപ്പോൾത്തന്നെ വഹിക്കുന്നുണ്ട്. ഇമെയിൽ സ്പാം ഫിൽറ്ററുകൾ മുതൽ യൂട്യൂബ് റെക്കമെൻഡേഷനുകൾ വരെ എല്ലാം മനുഷ്യനേക്കാൾ വൃത്തിയായിട്ടു ഇപ്പോൾ യന്ത്രം സ്വയമേവ ചെയ്യും. 
 
 ---
 
-## Contents
+## ഉള്ളടക്കം 
 
-- [Introduction](#introduction) 
+- [ആമുഖം](#ആമുഖം) 
 
 - [Chapter 1 : Jargon](#chapter-1) 
 
