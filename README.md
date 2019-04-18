@@ -1,4 +1,4 @@
-# Essence of ML
+# Essence of ML and ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ്   
 
 Our end goal is to create a complete reference for learning Machine Learning. One thing that we have noticed in our journey with ML is that you can't always learn everything from a single resource. Extensive research needs to be done until you find the explanation that 'clicks' with you. We have searched and found several of such resources and have tried to create a culmination of all the information from these resources to create an ideal hub all of the beginner friendly content on Machine Learning.
 
