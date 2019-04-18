@@ -18,7 +18,7 @@ AI ഇപ്പോൾ തന്നെ നമ്മുടെ ചുറ്റു�
 
 ---
 
-## ആമുഖം
+##  ആമുഖം
 
 Most people when they hear 'Artificial Intelligence' picture some sort of super-villain robot trying to take over the world. Well, this might be how the most of us first came acroos artificial intelligence, through movies. But artificial intelligence is not something from the fantasies of the far future. It is already here and it is affecting the way we live and how we think and do things already. 
 
