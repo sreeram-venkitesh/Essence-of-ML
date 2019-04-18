@@ -14,11 +14,11 @@ AI ഇപ്പോൾ തന്നെ നമ്മുടെ ചുറ്റു�
 
 ## ഉള്ളടക്കം 
 
-- [ആമുഖം](##ആമുഖം) 
+- [ആമുഖം](#ആമുഖം) 
 
-- [Chapter 1 : Jargon](#chapter-1) 
+- [Chapter 1 : വിവിധ തരം മെഷീൻ ലേർണിംഗ്](#chapter-1) 
 
-- [Chapter 2 : Types of ML](#chapter-2)
+- [Chapter 2 : ](#chapter-2)
 
 - [Conclusion](#conclusion)
 
@@ -44,16 +44,7 @@ AI ഇപ്പോൾ തന്നെ നമ്മുടെ ചുറ്റു�
 നാരോ AI ആണ് ഇപ്പോൾ നമ്മൾ സാധിച് എടുത്തിട്ടുള്ളത്. നാരോ എന്ന് വെച്ചാൽ ഒരു പ്രതേക കാര്യം കാര്യക്ഷമമായി ചെയ്യാൻ ഉള്ള കഴിവുള്ള ഒരു മനുഷ്യ സൃഷ്ഠി. ഉദാഹരണമായി ഇമെയിൽ സ്പാം ഫിൽറ്ററുകളെ എടുക്കാം. ഒരിക്കൽ പറഞ്ഞു കൊടുത്താൽ മനുഷ്യന് ചെയാവുന്നതിനേക്കാൾ ഭംഗിയായി നമ്മുടെ AI ആ പണി ചെയ്യും. നന്നായിട്ട് ചെയ്യുമെങ്കിലും നാരോ AI പറഞ്ഞ ആ ഒന്നോ രണ്ടോ പണി മാത്രമേ ചെയുള്ളു. നാരോ AI സ്വന്തമായി ചിന്തിക്കുന്നുണ്ട് എന്ന് നമുക്ക് തോന്നുമെങ്കിലും, സ്വന്തമായി ചിന്തിച്ചു ചെയ്‌യുന്നത് പോലെ അതിനു പുറകിൽ ഉള്ള കണക്കുകൾ നമ്മളെ തോന്നിപ്പിക്കുന്നതാണ്. സത്യത്തിൽ നാരോ AI-ക്ക് ചിന്തിക്കാൻ ഉള്ള കഴിവ് ഇല്ല.
 
 
+## Chapter 1 : വിവിധ തരം മെഷീൻ ലേർണിംഗ് 
 
-Most people when they hear 'Artificial Intelligence' picture some sort of super-villain robot trying to take over the world. Well, this might be how the most of us first came acroos artificial intelligence, through movies. But artificial intelligence is not something from the fantasies of the far future. It is already here and it is affecting the way we live and how we think and do things already. 
 
-This is a small attempt to take the absolute layman through the various intricacies of the field and its subsets. What we know and how much we have come from the beginning. So it doesn't matter if you have no previous experience, in computer science or in engineering at all. 
-
-Artificial intelligence, as said earlier, is already all around us. From email spam filters to YouTube recommendations to better recognition of your voice by the various voice search apps. Artificial intelligence and Machine Learning, one of its subsets, is already changing how we view and percieve the staggering amount of data around us. So while this revolution is taking place don't you want to take part in it too? That is the one goal of this open-source textbook. 
-
-## Chapter 1 : Jargon
-
-So we hear a lot of words these days, which are used almost interchangably(wrong!). We talk about artificial intelligence, machine learning, deep learning, neural networks and so on. But do you exactly know what all of these jargon actually mean? The first chapter is dedicated to learn these words, along with some others. After you are finished with this chapter, you will be able to explain clearly what each of these means and also get a big picture of all the different fields of study and how they are connected.
-
-> Artificial Intelliegence
 
